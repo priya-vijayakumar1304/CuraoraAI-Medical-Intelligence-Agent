@@ -1,2 +1,9 @@
-pandas
-numpy
+langchain
+ipykernel
+langchain_community
+langchain_groq
+langchain_huggingface
+sentence-transformers
+beautifulsoup4
+xmltodict
+faiss-cpu
